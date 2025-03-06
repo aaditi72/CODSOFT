@@ -1,16 +1,16 @@
 # CODSOFT
 
-# Take-1 : Guess the Number Game 🎯
+# Take-1 : Guess the Number Game 
 
 A simple number-guessing game written in C++ where the player tries to guess a randomly generated number between 1 and 100.
 
-## Features 🚀
+## Features 
 - Generates a random number between 1 and 100.
 - Provides hints if the guess is too high or too low.
 - Tracks the number of attempts.
 - Displays a congratulatory message when the correct number is guessed.
 
-## How to Play 🎮
+## How to Play 
 1. The game will generate a random number between 1 and 100.
 2. You will be prompted to enter your guess.
 3. If your guess is too low, the game will prompt you to guess higher.
@@ -18,7 +18,7 @@ A simple number-guessing game written in C++ where the player tries to guess a r
 5. Keep guessing until you find the correct number.
 6. The game will display the number of attempts taken to guess correctly.
 
-## Example Output 🖥️
+## Example Output 
 ```bash
 Guess the number between 1 and 100!
 Enter your guess: 30
@@ -52,7 +52,7 @@ This is a simple command-line calculator built in C++. It allows users to perfor
 4. Enter the second number.
 5. View the result.
 
-## Example Output 🖥️
+## Example Output 
 ```bash
 Enter first number: 12
 Enter an operator (+, -, *, /): *
